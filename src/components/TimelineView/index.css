@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.heading-1 {
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: normal;
+  color: #171f46;
+  text-align: center;
+}
+
+.heading-2 {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #2b237c;
+  text-align: center;
+}
+
+.chrono-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
